@@ -1,0 +1,30 @@
+body{
+  background-image: url(../imagenes/1.jpg);
+  background-repeat:repeat-y;
+  background-size: cover;
+  height: auto;
+}
+.header{
+  background-color: rgba(81, 250, 170, 0.5);
+}
+.favoritos{
+  width: 100%;
+  max-height: 40px;
+  min-height: 40px;
+  margin-bottom: 5%;
+}
+.vertical{
+  list-style: none !important;
+}
+.menu-centered{
+    list-style: none !important;
+}
+.button{
+  margin-top:-17px;
+}
+.publicaciones{
+  margin-top: 50px;
+}
+.contenido{
+  background-color: #EEEAEA;
+}
